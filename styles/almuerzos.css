@@ -1,0 +1,10 @@
+#contenedor-almuerzos{
+    margin: 1%;
+}
+#contenedor-platos{
+    margin: 0 4%;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius:25px;
+    border: solid 1px rgb(255,123,0);
+    box-shadow: 0px 5px 10px rgb(255,123,0,0.4);
+}

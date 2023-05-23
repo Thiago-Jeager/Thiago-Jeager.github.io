@@ -1,0 +1,29 @@
+#barra-navegacion{
+    background-color: rgb(255,123,0);
+}
+#barra-navegacion a{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+#link-menu a{
+    background-color: rgb(255,123,0);
+}
+#barra-navegacion a:hover,
+#barra-navegacion a:focus{
+    background-color: rgb(255, 165, 81);
+}
+#menu-desplegable > li> a{
+    border-radius: 10px;
+}
+#barra-navegacion span{
+    background-color: white;
+}
+/* FOOTER */
+footer{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+footer span{
+    font-size: 20px;
+}
